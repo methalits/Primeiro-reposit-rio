@@ -1,9 +1,0 @@
-Comandos Git/GitHub
-Criar repositório no GitHub e copiar o link
-Clonar repositório do git na máquina: git clone + link do repositório
-cd + nome da pasta: entrar na pasta
-git status: status do repositório
-git add. : primeiro passo para incluir os arquivos da pasta no repositório
-git commit -m 'Inserir entre aspas anotações': passa para o repositório local
-git push origin main: passa do repositório local para o remoto
-
