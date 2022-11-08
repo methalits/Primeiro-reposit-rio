@@ -1,4 +1,4 @@
-#Comandos Git/GitHub:
+Comandos Git/GitHub:
 Criar repositório no GitHub e copiar o link;
 Clonar repositório do git na máquina: git clone + link do repositório;
 cd + nome da pasta: entrar na pasta;
